@@ -5,14 +5,9 @@ Official [Homebrew](https://brew.sh) tap for macOS applications built by [Oil Oi
 ## Install Oil Studio
 
 ```sh
-brew install --cask oil-oil/tap/oil-studio
-```
-
-Or tap first, then install:
-
-```sh
 brew tap oil-oil/tap
-brew install --cask oil-studio
+brew trust oil-oil/tap
+brew install --cask oil-oil/tap/oil-studio
 ```
 
 ## Available Casks
