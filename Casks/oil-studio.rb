@@ -1,6 +1,6 @@
 cask "oil-studio" do
-  version "0.3.26"
-  sha256 "5419dfa6d3c8dcd79a2f1a60b4ac8e40e81a2420ca68f0be8c0e0f5b12c50954"
+  version "0.3.30"
+  sha256 "3d91e6e51fb8ed1efb950d382b16b9998779b0304814ed3e31f034edd2488893"
 
   url "https://download.oiloil.org/studio/OilStudio-#{version}.dmg"
   name "Oil Studio"
